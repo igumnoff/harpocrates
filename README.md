@@ -1,1 +1,3 @@
-# harpocrates
+# Harpocrates
+
+![Harpocrates](logo.png)
